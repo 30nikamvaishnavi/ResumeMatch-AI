@@ -1,0 +1,6 @@
+{
+  "name": "ResumeMatch AI",
+  "description": "AI-powered resume and job match analyzer with strict verbatim evidence verification, semantic requirement matching, and honest model reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
